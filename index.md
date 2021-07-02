@@ -1,5 +1,5 @@
 ---
-this is my github blog
+title: "this is my github blog"
 ---
 
 will be putting up some javascript studies here test...
